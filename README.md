@@ -39,19 +39,15 @@
 
 ###
 
-<a href="https://www.youtube.com/watch?v=8za2EYuDcjE&list=RD8za2EYuDcjE&start_radio=1">><img align="left" height="150" src="https://i.pinimg.com/originals/bb/c7/60/bbc76025a1ee92b04949607c97744d33.gif"  />
+<a href="https://www.youtube.com/watch?v=8za2EYuDcjE&list=RD8za2EYuDcjE&start_radio=1"><img align="left" height="150" src="https://i.pinimg.com/originals/bb/c7/60/bbc76025a1ee92b04949607c97744d33.gif"  />
 </a>
 
 ###
 
-<img align="left" height="150" src="https://i.pinimg.com/originals/02/aa/76/02aa769364e4f92ac271f76a964f186f.gif"  />
+<a href="https://www.youtube.com/watch?v=tT-emswoeKs"><img align="left" height="150" src="https://i.pinimg.com/originals/02/aa/76/02aa769364e4f92ac271f76a964f186f.gif"  /></a>
 
 ###
 
-<img align="left" height="150" src="https://64.media.tumblr.com/58579165d14cbbef2f289730b898ff97/51395833ca30c912-26/s540x810/270ea4da215ef4d435e10834ba39c21ca7796216.gif"  />
-
-###
-
-<img align="left" height="150" src="https://i.pinimg.com/originals/58/d9/75/58d97503f30db5cd67747f73135dc498.gif"  />
+<a href="https://www.youtube.com/watch?v=IQU49JbStVA"><img align="left" height="150" src="https://i.pinimg.com/originals/58/d9/75/58d97503f30db5cd67747f73135dc498.gif"  /></a>
 
 ###
