@@ -47,8 +47,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/origami582/origami582/output/snake.svg" alt="Snake animation" />
-
-###
