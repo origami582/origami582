@@ -47,10 +47,9 @@
   <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0&list=RDxvFZjo5PgG0&start_radio=1" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  /></a>
 </div>
 
+<center>
+  
 ###
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=8za2EYuDcjE&list=RD8za2EYuDcjE&start_radio=1"><img align="left" height="150"src="https://i.pinimg.com/originals/bb/c7/60/bbc76025a1ee92b04949607c97744d33.gif"  /></a>
-</div>
 <div align="center">
   <a href="https://www.youtube.com/watch?v=8za2EYuDcjE&list=RD8za2EYuDcjE&start_radio=1"><img align="left" height="150"src="https://i.pinimg.com/originals/bb/c7/60/bbc76025a1ee92b04949607c97744d33.gif"  /></a>
 
@@ -58,3 +57,5 @@
 
   <a href="https://www.youtube.com/watch?v=IQU49JbStVA"><img align="left" height="150" src="https://i.pinimg.com/originals/58/d9/75/58d97503f30db5cd67747f73135dc498.gif"  /></a>
 </div>
+
+</center>
