@@ -44,8 +44,8 @@
   <a href="https://www.youtube.com/@nantawatpaladech5158" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  /></a>
   <a href="https://www.instagram.com/o.rigami_582" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  /></a>
   <a href="https://www.twitch.tv/origami582" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitch logo"  /></a>
-</div>
   <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0&list=RDxvFZjo5PgG0&start_radio=1" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  /></a>
+</div>
   <a href="https://www.youtube.com/watch?v=8za2EYuDcjE&list=RD8za2EYuDcjE&start_radio=1"><img align="left" height="150"src="https://i.pinimg.com/originals/bb/c7/60/bbc76025a1ee92b04949607c97744d33.gif"  /></a>
 
   <a href="https://www.youtube.com/watch?v=tT-emswoeKs"><img align="left" height="150" src="https://i.pinimg.com/originals/02/aa/76/02aa769364e4f92ac271f76a964f186f.gif"  /></a>
