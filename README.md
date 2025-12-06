@@ -37,7 +37,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://education.oracle.com/file/general/p-80-java.png" height="30" alt="python logo"  />
+  <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" height="30" alt="python logo"  />
 </div>
 
 ###
